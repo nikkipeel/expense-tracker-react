@@ -1,4 +1,4 @@
-<h1>:money: Expense Tracker </h1>
+<h1>:moneybag: Expense Tracker </h1>
 
 *Expense tracking application built with React Hooks and ContextAPI*
 
@@ -7,7 +7,7 @@ Converted to React from this VanillaJS app: [expense-tracker](https://nikkipeel.
 Tutorial courtesy of Brad Traversy/[Traversy Media](https://www.traversymedia.com/):
 [Build an Expense Tracker](https://youtu.be/XuFDcZABiDQ) 
 
-Todos:
+:bookmark_tabs: Todos:
   - Add backend with Express and MongoDB for a full stack application
   - Make addTransaction responsive, cannot use minus key on mobile device
 
